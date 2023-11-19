@@ -75,13 +75,7 @@ section p{
 .social-links li a{
         text-decoration: none;
 }
-<<<<<<< HEAD
-#contact .container{
-=======
-
-
 .contact .container{
->>>>>>> 1adb0d9e3869267b3071c4e5c83d2dbc7ff65584
     display: block;
 }
 .contact-methods{
